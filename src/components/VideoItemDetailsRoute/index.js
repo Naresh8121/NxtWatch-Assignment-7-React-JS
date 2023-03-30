@@ -196,7 +196,7 @@ class VideoDetails extends Component {
                       </IconContainer>
                       <IconContainer
                         onClick={saveVideoToList}
-                        color={videoSaved ? '#4f46e5' : '#181818'}
+                        color={videoSaved ? '#0f0f0f' : '#181818'}
                       >
                         <RiPlayListAddFill />
                         <ViewsText color={videoSaved ? '#4f46e5' : '#181818'}>
