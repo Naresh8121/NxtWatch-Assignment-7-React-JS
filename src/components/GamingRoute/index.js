@@ -175,3 +175,4 @@ class GamingRoute extends Component {
 }
 
 export default GamingRoute
+
