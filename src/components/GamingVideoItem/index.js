@@ -26,3 +26,4 @@ const VideoCardTwo = props => {
 }
 
 export default VideoCardTwo
+
