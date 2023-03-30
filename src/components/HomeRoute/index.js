@@ -82,3 +82,4 @@ class HomeRoute extends Component {
 }
 
 export default HomeRoute
+
